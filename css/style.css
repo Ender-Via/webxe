@@ -6,6 +6,11 @@
     --dark: #060315;
 }
 
+.service-item img {
+    width: 100%;       
+    height: 300px;     
+    object-fit: cover; 
+}
 .fw-medium {
     font-weight: 600 !important;
 }
